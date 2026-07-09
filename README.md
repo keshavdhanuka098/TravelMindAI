@@ -248,7 +248,7 @@ npm run build
 
 ## 🔗 Live Demo
 
-🌐 **Live Website:** : https://travelmind-ai.netlify.app/
+🌐 **Live Website:**  https://travelmind-ai.netlify.app/
 
 Experience the live application and explore the AI-powered travel planning interface with immersive animations, interactive onboarding, and personalized itinerary generation.
 
