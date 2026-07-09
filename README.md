@@ -1,2 +1,20 @@
-# TravelMindAI
-TravelMind AI transforms fragmented travel planning into a seamless, AI-powered experience by delivering personalized itineraries, intelligent recommendations, and adaptive trip management—all within a single intuitive platform.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/b374854e-5c18-4c2c-bcd1-04bd7fa4d997
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

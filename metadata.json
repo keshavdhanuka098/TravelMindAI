@@ -1,0 +1,6 @@
+{
+  "name": "TravelMind AI",
+  "description": "An intelligent travel operating system that creates beautiful, personalized journeys instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
